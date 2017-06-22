@@ -14,39 +14,20 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\finalelectricalsystem.DSN")
-      (Path "Design Resources" ".\finalelectricalsystem.DSN"
+      (Path "Design Resources"
+         "\\uol.le.ac.uk\root\student\home\a\ate5\Desktop Files\FINAL FROMULA STUDENT 2017 ELECTERICAL SYSTEM\finalelectricalsystem.DSN")
+      (Path "Design Resources"
+         "\\uol.le.ac.uk\root\student\home\a\ate5\Desktop Files\FINAL FROMULA STUDENT 2017 ELECTERICAL SYSTEM\finalelectricalsystem.DSN"
          "ELECTRICAL MASTER CIRCUITS")
-      (Select "Design Resources" ".\finalelectricalsystem.DSN"
+      (Select "Design Resources"
+         "\\uol.le.ac.uk\root\student\home\a\ate5\Desktop Files\FINAL FROMULA STUDENT 2017 ELECTERICAL SYSTEM\finalelectricalsystem.DSN"
          "ELECTRICAL MASTER CIRCUITS" "HV MASTER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 427"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 160 752 -8 -30 0 915 3 791")
-        (Scroll "-203 -5")
-        (Zoom "48")
-        (Occurrence "/"))
-      (Path
-         "Z:\DESKTOP FILES\CIRCUITDIAGRAM\FINAL FROMULA STUDENT 2017 ELECTERICAL SYSTEM\FINALELECTRICALSYSTEM.DSN")
-      (Schematic "ELECTRICAL MASTER CIRCUITS")
-      (Page "GLV MASTER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 25 1594 25 576")
-        (Scroll "-199 0")
-        (Zoom "48")
-        (Occurrence "/"))
-      (Path
-         "Z:\DESKTOP FILES\CIRCUITDIAGRAM\FINAL FROMULA STUDENT 2017 ELECTERICAL SYSTEM\FINALELECTRICALSYSTEM.DSN")
-      (Schematic "ELECTRICAL MASTER CIRCUITS")
-      (Page "HV MASTER")))
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 427"))
+      (Tab 0)))
   (PartMRUSelector
     ("SW KEY-SPST"
       (FullPartName "SW KEY-SPST.Normal")

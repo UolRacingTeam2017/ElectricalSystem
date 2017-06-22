@@ -18,12 +18,13 @@
          "\\uol.le.ac.uk\root\student\home\a\ate5\desktop files\final fromula student 2017 electerical system\finalelectricalsystem.DSN")
       (Path "Design Resources"
          "\\uol.le.ac.uk\root\student\home\a\ate5\desktop files\final fromula student 2017 electerical system\finalelectricalsystem.DSN"
-         "ELECTRICAL MASTER CIRCUITS"))
+         "ELECTRICAL MASTER CIRCUITS")
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 427"))
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 427"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")

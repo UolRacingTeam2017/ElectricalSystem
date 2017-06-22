@@ -14,11 +14,12 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\finalelectricalsystem.DSN")
-      (Path "Design Resources" ".\finalelectricalsystem.DSN"
+      (Path "Design Resources"
+         "\\uol.le.ac.uk\root\student\home\a\ate5\desktop files\final fromula student 2017 electerical system\finalelectricalsystem.DSN")
+      (Path "Design Resources"
+         "\\uol.le.ac.uk\root\student\home\a\ate5\desktop files\final fromula student 2017 electerical system\finalelectricalsystem.DSN"
          "ELECTRICAL MASTER CIRCUITS")
-      (Select "Design Resources" ".\finalelectricalsystem.DSN"
-         "ELECTRICAL MASTER CIRCUITS" "HV MASTER"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -28,26 +29,21 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 160 752 -8 -30 0 915 3 791")
-        (Scroll "-203 -5")
-        (Zoom "48")
-        (Occurrence "/"))
-      (Path
-         "Z:\DESKTOP FILES\CIRCUITDIAGRAM\FINAL FROMULA STUDENT 2017 ELECTERICAL SYSTEM\FINALELECTRICALSYSTEM.DSN")
-      (Schematic "ELECTRICAL MASTER CIRCUITS")
-      (Page "GLV MASTER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 25 1594 25 576")
+        (Placement "44 0 1 -1 -1 -8 -30 150 1719 150 701")
         (Scroll "-199 0")
         (Zoom "48")
         (Occurrence "/"))
       (Path
-         "Z:\DESKTOP FILES\CIRCUITDIAGRAM\FINAL FROMULA STUDENT 2017 ELECTERICAL SYSTEM\FINALELECTRICALSYSTEM.DSN")
+         "\\UOL.LE.AC.UK\ROOT\STUDENT\HOME\A\ATE5\DESKTOP FILES\FINAL FROMULA STUDENT 2017 ELECTERICAL SYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "ELECTRICAL MASTER CIRCUITS")
       (Page "HV MASTER")))
   (PartMRUSelector
+    (OFFPAGELEFT-R
+      (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
     ("SW KEY-SPST"
       (FullPartName "SW KEY-SPST.Normal")
       (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
@@ -84,9 +80,6 @@
     (BATTERY
       (FullPartName "BATTERY.Normal")
       (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    (OFFPAGELEFT-L
-      (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0")))
   (MPSSessionName "ate5")
   (LastUsedLibraryBrowseDirectory "V:\OrCAD166.C01\OrCAD\tools\capture\library"))

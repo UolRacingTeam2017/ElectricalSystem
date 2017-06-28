@@ -21,8 +21,7 @@
          "ELECTRICAL MASTER CIRCUITS")
       (Path "Design Resources" ".\finalelectricalsystem.dsn" "GLV SUBSYSTEMS")
       (Path "Design Resources" ".\finalelectricalsystem.dsn" "HV SUBSYSTEMS")
-      (Select "Design Resources" ".\finalelectricalsystem.dsn"
-         "ELECTRICAL MASTER CIRCUITS"))
+      (Select "Design Resources" ".\finalelectricalsystem.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -33,7 +32,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -30 50 1384 50 622")
-        (Scroll "470 262")
+        (Scroll "477 570")
         (Zoom "96")
         (Occurrence "/"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")

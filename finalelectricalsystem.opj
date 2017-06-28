@@ -3,7 +3,7 @@
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
-    (File ".\finalelectricalsystem.DSN"
+    (File ".\finalelectricalsystem.dsn"
       (Type "Schematic Design")
       (DisplayName ".\finalelectricalsystem.DSN"))
     (BuildFileAddedOrDeleted "x")
@@ -16,9 +16,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" "z:\electricalsystem\finalelectricalsystem.DSN")
-      (Path "Design Resources" "z:\electricalsystem\finalelectricalsystem.DSN"
-         "ELECTRICAL MASTER CIRCUITS"))
+      (Path "Design Resources" ".\finalelectricalsystem.dsn")
+      (Path "Design Resources" ".\finalelectricalsystem.dsn"
+         "ELECTRICAL MASTER CIRCUITS")
+      (Path "Design Resources" ".\finalelectricalsystem.dsn" "HV SUBSYSTEMS")
+      (Select "Design Resources" ".\finalelectricalsystem.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -28,9 +30,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 50 1384 50 622")
-        (Scroll "0 416")
-        (Zoom "96")
+        (Placement "44 0 1 -1 -1 -8 -30 50 1384 50 622")
+        (Scroll "2135 1505")
+        (Zoom "192")
         (Occurrence "/"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "ELECTRICAL MASTER CIRCUITS")
@@ -38,13 +40,12 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 100 1413 100 651")
-        (Scroll "0 255")
-        (Zoom "100")
-        (Occurrence "/"))
+        (Placement "44 2 3 -1 -1 -8 -30 100 1413 100 651")
+        (Scroll "-217 0")
+        (Zoom "48"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
-      (Schematic "ELECTRICAL MASTER CIRCUITS")
-      (Page "HV MASTER")))
+      (Schematic "HV SUBSYSTEMS")
+      (Page "Power Convertor")))
   (PartMRUSelector
     (OFFPAGELEFT-R
       (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")

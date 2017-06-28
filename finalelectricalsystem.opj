@@ -19,8 +19,10 @@
       (Path "Design Resources" ".\finalelectricalsystem.dsn")
       (Path "Design Resources" ".\finalelectricalsystem.dsn"
          "ELECTRICAL MASTER CIRCUITS")
+      (Path "Design Resources" ".\finalelectricalsystem.dsn" "GLV SUBSYSTEMS")
       (Path "Design Resources" ".\finalelectricalsystem.dsn" "HV SUBSYSTEMS")
-      (Select "Design Resources" ".\finalelectricalsystem.dsn"))
+      (Select "Design Resources" ".\finalelectricalsystem.dsn"
+         "ELECTRICAL MASTER CIRCUITS"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -30,9 +32,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 1384 50 622")
-        (Scroll "2135 1505")
-        (Zoom "192")
+        (Placement "44 2 3 -1 -1 -8 -30 50 1384 50 622")
+        (Scroll "470 262")
+        (Zoom "96")
         (Occurrence "/"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "ELECTRICAL MASTER CIRCUITS")
@@ -40,12 +42,30 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 100 1413 100 651")
-        (Scroll "-217 0")
-        (Zoom "48"))
+        (Placement "44 0 1 -1 -1 -8 -30 75 1388 75 626")
+        (Scroll "0 160")
+        (Zoom "100"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "HV SUBSYSTEMS")
-      (Page "Power Convertor")))
+      (Page "Power Convertor"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1413 100 651")
+        (Scroll "165 0")
+        (Zoom "50"))
+      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
+      (Schematic "GLV SUBSYSTEMS")
+      (Page "BSPD"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1438 125 676")
+        (Scroll "0 0")
+        (Zoom "100"))
+      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
+      (Schematic "GLV SUBSYSTEMS")
+      (Page "BackController")))
   (PartMRUSelector
     (OFFPAGELEFT-R
       (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")

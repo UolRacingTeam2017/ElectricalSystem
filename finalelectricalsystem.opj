@@ -32,7 +32,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -30 50 1384 50 622")
-        (Scroll "948 720")
+        (Scroll "720 225")
         (Zoom "96")
         (Occurrence "/"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
@@ -59,7 +59,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 125 1438 125 676")
+        (Placement "44 0 1 -1 -1 -8 -30 125 1438 125 676")
         (Scroll "1138 938")
         (Zoom "96"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
@@ -73,8 +73,34 @@
         (Zoom "96"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "HV SUBSYSTEMS")
-      (Page "HV Detector")))
+      (Page "HV Detector"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 1020 0 551")
+        (Scroll "4034 2124")
+        (Zoom "192"))
+      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
+      (Schematic "HV SUBSYSTEMS")
+      (Page "PRE-CHARGE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 25 1045 25 576")
+        (Scroll "3825 2538")
+        (Zoom "192"))
+      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
+      (Schematic "HV SUBSYSTEMS")
+      (Page "DIS-CHARGE")))
   (PartMRUSelector
+    ("RELAY SPDT"
+      (FullPartName "RELAY SPDT.Normal")
+      (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
     (RESISTOR
       (FullPartName "RESISTOR.Normal")
       (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
@@ -101,10 +127,6 @@
       (FullPartName "FUSE.Normal")
       (LibraryName
          "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\PSPICE\ANL_MISC.OLB")
-      (DeviceIndex "0"))
-    (CAP
-      (FullPartName "CAP.Normal")
-      (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0"))
     ("MOTOR SERVO"
       (FullPartName "MOTOR SERVO.Normal")

@@ -32,8 +32,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -30 50 1384 50 622")
-        (Scroll "720 225")
-        (Zoom "96")
+        (Scroll "2847 1391")
+        (Zoom "192")
         (Occurrence "/"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "ELECTRICAL MASTER CIRCUITS")
@@ -59,9 +59,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 125 1438 125 676")
-        (Scroll "1138 938")
-        (Zoom "96"))
+        (Placement "44 2 3 -1 -1 -8 -30 125 1438 125 676")
+        (Scroll "218 271")
+        (Zoom "48"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "GLV SUBSYSTEMS")
       (Page "BackController"))
@@ -78,7 +78,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -30 0 1020 0 551")
-        (Scroll "4034 2124")
+        (Scroll "3814 2124")
         (Zoom "192"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "HV SUBSYSTEMS")
@@ -86,16 +86,29 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 25 1045 25 576")
+        (Placement "44 0 1 -1 -1 -8 -30 25 1045 25 576")
         (Scroll "3825 2538")
         (Zoom "192"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "HV SUBSYSTEMS")
-      (Page "DIS-CHARGE")))
+      (Page "DIS-CHARGE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1095 75 626")
+        (Scroll "3516 3110")
+        (Zoom "192"))
+      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
+      (Schematic "GLV SUBSYSTEMS")
+      (Page "Pre/Dis Charge")))
   (PartMRUSelector
     ("RELAY SPDT"
       (FullPartName "RELAY SPDT.Normal")
       (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (ULN2003A
+      (FullPartName "ULN2003A.Normal")
+      (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
       (DeviceIndex "0"))
     (CAP
       (FullPartName "CAP.Normal")
@@ -104,10 +117,6 @@
     (RESISTOR
       (FullPartName "RESISTOR.Normal")
       (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    (ULN2003A
-      (FullPartName "ULN2003A.Normal")
-      (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
       (DeviceIndex "0"))
     ("DIODE SCHOTTKY31"
       (FullPartName "DIODE SCHOTTKY31.Normal")

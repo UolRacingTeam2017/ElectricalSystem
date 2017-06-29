@@ -31,76 +31,13 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 1384 50 622")
-        (Scroll "577 349")
-        (Zoom "96")
+        (Placement "44 2 3 -1 -1 -8 -30 50 1384 50 622")
+        (Scroll "-75 -5")
+        (Zoom "48")
         (Occurrence "/"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "ELECTRICAL MASTER CIRCUITS")
-      (Page "GLV MASTER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 75 1388 75 626")
-        (Scroll "691 1167")
-        (Zoom "192"))
-      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
-      (Schematic "HV SUBSYSTEMS")
-      (Page "Power Convertor"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 100 1413 100 651")
-        (Scroll "165 0")
-        (Zoom "50"))
-      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
-      (Schematic "GLV SUBSYSTEMS")
-      (Page "BSPD"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 125 1438 125 676")
-        (Scroll "312 364")
-        (Zoom "48"))
-      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
-      (Schematic "GLV SUBSYSTEMS")
-      (Page "BackController"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 150 1463 150 701")
-        (Scroll "1526 1260")
-        (Zoom "96"))
-      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
-      (Schematic "HV SUBSYSTEMS")
-      (Page "HV Detector"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 1020 0 551")
-        (Scroll "3814 2124")
-        (Zoom "192"))
-      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
-      (Schematic "HV SUBSYSTEMS")
-      (Page "PRE-CHARGE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 25 1045 25 576")
-        (Scroll "3825 2538")
-        (Zoom "192"))
-      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
-      (Schematic "HV SUBSYSTEMS")
-      (Page "DIS-CHARGE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 75 1095 75 626")
-        (Scroll "3516 3110")
-        (Zoom "192"))
-      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
-      (Schematic "GLV SUBSYSTEMS")
-      (Page "Pre/Dis Charge")))
+      (Page "GLV MASTER")))
   (PartMRUSelector
     (RESISTOR
       (FullPartName "RESISTOR.Normal")

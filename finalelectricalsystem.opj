@@ -31,8 +31,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 1384 50 622")
-        (Scroll "678 637")
+        (Placement "44 2 3 -1 -1 -8 -30 50 1384 50 622")
+        (Scroll "678 447")
         (Zoom "96")
         (Occurrence "/"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
@@ -59,7 +59,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 125 1438 125 676")
+        (Placement "44 0 1 -1 -1 -8 -30 125 1438 125 676")
         (Scroll "70 252")
         (Zoom "48"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")

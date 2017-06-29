@@ -31,9 +31,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 50 1384 50 622")
-        (Scroll "-75 -5")
-        (Zoom "48")
+        (Placement "44 0 1 -1 -1 -8 -30 50 1384 50 622")
+        (Scroll "948 720")
+        (Zoom "96")
         (Occurrence "/"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "ELECTRICAL MASTER CIRCUITS")
@@ -59,7 +59,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 125 1438 125 676")
+        (Placement "44 2 3 -1 -1 -8 -30 125 1438 125 676")
         (Scroll "1138 938")
         (Zoom "96"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")

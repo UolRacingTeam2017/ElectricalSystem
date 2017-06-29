@@ -32,8 +32,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -30 50 1384 50 622")
-        (Scroll "2847 1391")
-        (Zoom "192")
+        (Scroll "577 349")
+        (Zoom "96")
         (Occurrence "/"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "ELECTRICAL MASTER CIRCUITS")
@@ -41,9 +41,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 75 1388 75 626")
-        (Scroll "470 341")
-        (Zoom "96"))
+        (Placement "44 2 3 -1 -1 -8 -30 75 1388 75 626")
+        (Scroll "691 1167")
+        (Zoom "192"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "HV SUBSYSTEMS")
       (Page "Power Convertor"))
@@ -59,8 +59,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 125 1438 125 676")
-        (Scroll "218 271")
+        (Placement "44 0 1 -1 -1 -8 -30 125 1438 125 676")
+        (Scroll "312 364")
         (Zoom "48"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "GLV SUBSYSTEMS")
@@ -102,6 +102,10 @@
       (Schematic "GLV SUBSYSTEMS")
       (Page "Pre/Dis Charge")))
   (PartMRUSelector
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
     ("RELAY SPDT"
       (FullPartName "RELAY SPDT.Normal")
       (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
@@ -112,10 +116,6 @@
       (DeviceIndex "0"))
     (CAP
       (FullPartName "CAP.Normal")
-      (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    (RESISTOR
-      (FullPartName "RESISTOR.Normal")
       (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0"))
     ("DIODE SCHOTTKY31"

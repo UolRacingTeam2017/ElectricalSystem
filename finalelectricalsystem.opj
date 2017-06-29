@@ -32,8 +32,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -30 50 1384 50 622")
-        (Scroll "678 447")
-        (Zoom "96")
+        (Scroll "-75 -5")
+        (Zoom "48")
         (Occurrence "/"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "ELECTRICAL MASTER CIRCUITS")
@@ -42,8 +42,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -30 75 1388 75 626")
-        (Scroll "0 160")
-        (Zoom "100"))
+        (Scroll "470 341")
+        (Zoom "96"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "HV SUBSYSTEMS")
       (Page "Power Convertor"))
@@ -60,12 +60,33 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -30 125 1438 125 676")
-        (Scroll "70 252")
-        (Zoom "48"))
+        (Scroll "1138 938")
+        (Zoom "96"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "GLV SUBSYSTEMS")
-      (Page "BackController")))
+      (Page "BackController"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 150 1463 150 701")
+        (Scroll "1526 1260")
+        (Zoom "96"))
+      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
+      (Schematic "HV SUBSYSTEMS")
+      (Page "HV Detector")))
   (PartMRUSelector
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (ULN2003A
+      (FullPartName "ULN2003A.Normal")
+      (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    ("DIODE SCHOTTKY31"
+      (FullPartName "DIODE SCHOTTKY31.Normal")
+      (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
     (OFFPAGELEFT-R
       (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))

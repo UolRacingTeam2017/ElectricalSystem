@@ -68,26 +68,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 150 1463 150 701")
-        (Scroll "1510 1267")
-        (Zoom "96"))
-      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
-      (Schematic "HV SUBSYSTEMS")
-      (Page "HV Detector"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 175 1488 175 726")
-        (Scroll "2108 1210")
-        (Zoom "100"))
-      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
-      (Schematic "GLV SUBSYSTEMS")
-      (Page "Current Sensor"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 200 1220 200 751")
-        (Scroll "402 419")
+        (Placement "44 2 3 -1 -1 -8 -30 100 1120 100 651")
+        (Scroll "574 668")
         (Zoom "96"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "HV SUBSYSTEMS")

@@ -32,8 +32,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 50 1384 50 622")
-        (Scroll "971 782")
+        (Placement "44 0 1 -1 -1 -8 -30 50 1384 50 622")
+        (Scroll "948 210")
         (Zoom "96")
         (Occurrence "/"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
@@ -83,7 +83,16 @@
         (Zoom "100"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "IMD")
-      (Page "IMD")))
+      (Page "IMD"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 25 1045 25 576")
+        (Scroll "714 246")
+        (Zoom "200"))
+      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
+      (Schematic "HV SUBSYSTEMS")
+      (Page "Accumulator Light")))
   (PartMRUSelector
     (RESISTOR
       (FullPartName "RESISTOR.Normal")

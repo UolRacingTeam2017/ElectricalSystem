@@ -31,9 +31,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 1384 50 622")
-        (Scroll "-87 0")
-        (Zoom "48")
+        (Placement "44 2 3 -1 -1 -8 -30 50 1384 50 622")
+        (Scroll "678 247")
+        (Zoom "96")
         (Occurrence "/"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "ELECTRICAL MASTER CIRCUITS")
@@ -68,9 +68,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 150 1463 150 701")
-        (Scroll "8390 6470")
-        (Zoom "384"))
+        (Placement "44 0 1 -1 -1 -8 -30 150 1463 150 701")
+        (Scroll "1510 1267")
+        (Zoom "96"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "HV SUBSYSTEMS")
       (Page "HV Detector")))

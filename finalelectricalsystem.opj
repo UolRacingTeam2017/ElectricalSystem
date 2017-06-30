@@ -31,8 +31,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 50 1384 50 622")
-        (Scroll "678 147")
+        (Placement "44 0 1 -1 -1 -8 -30 50 1384 50 622")
+        (Scroll "0 469")
         (Zoom "96")
         (Occurrence "/"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
@@ -73,7 +73,25 @@
         (Zoom "96"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "HV SUBSYSTEMS")
-      (Page "HV Detector")))
+      (Page "HV Detector"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 175 1488 175 726")
+        (Scroll "2108 1210")
+        (Zoom "100"))
+      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
+      (Schematic "GLV SUBSYSTEMS")
+      (Page "Current Sensor"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 200 1220 200 751")
+        (Scroll "402 419")
+        (Zoom "96"))
+      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
+      (Schematic "HV SUBSYSTEMS")
+      (Page "Power Convertor")))
   (PartMRUSelector
     (RESISTOR
       (FullPartName "RESISTOR.Normal")

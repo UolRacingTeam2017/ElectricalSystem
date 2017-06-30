@@ -31,13 +31,31 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 50 1384 50 622")
-        (Scroll "-75 -5")
+        (Placement "44 0 1 -1 -1 -8 -30 50 1384 50 622")
+        (Scroll "-87 0")
         (Zoom "48")
         (Occurrence "/"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "ELECTRICAL MASTER CIRCUITS")
-      (Page "GLV MASTER")))
+      (Page "GLV MASTER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1388 75 626")
+        (Scroll "1019 1275")
+        (Zoom "96"))
+      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
+      (Schematic "GLV SUBSYSTEMS")
+      (Page "BackController"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 100 1413 100 651")
+        (Scroll "3366 3105")
+        (Zoom "192"))
+      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
+      (Schematic "GLV SUBSYSTEMS")
+      (Page "Pre/Dis Charge")))
   (PartMRUSelector
     (RESISTOR
       (FullPartName "RESISTOR.Normal")

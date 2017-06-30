@@ -50,12 +50,30 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 100 1413 100 651")
-        (Scroll "3366 3105")
+        (Placement "44 0 1 -1 -1 -8 -30 100 1413 100 651")
+        (Scroll "3366 3238")
         (Zoom "192"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "GLV SUBSYSTEMS")
-      (Page "Pre/Dis Charge")))
+      (Page "Pre/Dis Charge"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1438 125 676")
+        (Scroll "3492 2532")
+        (Zoom "192"))
+      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
+      (Schematic "HV SUBSYSTEMS")
+      (Page "DIS-CHARGE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 150 1463 150 701")
+        (Scroll "8390 6470")
+        (Zoom "384"))
+      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
+      (Schematic "HV SUBSYSTEMS")
+      (Page "HV Detector")))
   (PartMRUSelector
     (RESISTOR
       (FullPartName "RESISTOR.Normal")

@@ -21,6 +21,7 @@
          "ELECTRICAL MASTER CIRCUITS")
       (Path "Design Resources" ".\finalelectricalsystem.dsn" "GLV SUBSYSTEMS")
       (Path "Design Resources" ".\finalelectricalsystem.dsn" "HV SUBSYSTEMS")
+      (Path "Design Resources" ".\finalelectricalsystem.dsn" "IMD")
       (Select "Design Resources" ".\finalelectricalsystem.dsn"))
     (HierarchyView)
     (Doc
@@ -31,8 +32,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 1384 50 622")
-        (Scroll "0 469")
+        (Placement "44 2 3 -1 -1 -8 -30 50 1384 50 622")
+        (Scroll "971 782")
         (Zoom "96")
         (Occurrence "/"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
@@ -42,7 +43,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -30 75 1388 75 626")
-        (Scroll "1019 1275")
+        (Scroll "1073 1044")
         (Zoom "96"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "GLV SUBSYSTEMS")
@@ -68,15 +69,32 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 100 1120 100 651")
+        (Placement "44 0 1 -1 -1 -8 -30 100 1120 100 651")
         (Scroll "574 668")
         (Zoom "96"))
       (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
       (Schematic "HV SUBSYSTEMS")
-      (Page "Power Convertor")))
+      (Page "Power Convertor"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 225 1245 225 776")
+        (Scroll "1940 1362")
+        (Zoom "100"))
+      (Path "Z:\ELECTRICALSYSTEM\FINALELECTRICALSYSTEM.DSN")
+      (Schematic "IMD")
+      (Page "IMD")))
   (PartMRUSelector
     (RESISTOR
       (FullPartName "RESISTOR.Normal")
+      (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("RELAY DPDT"
+      (FullPartName "RELAY DPDT.Normal")
+      (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("RELAY DPST"
+      (FullPartName "RELAY DPST.Normal")
       (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0"))
     ("RELAY SPDT"
@@ -85,6 +103,10 @@
       (DeviceIndex "0"))
     (ULN2003A
       (FullPartName "ULN2003A.Normal")
+      (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    ("MOSFET DUAL G/N"
+      (FullPartName "MOSFET DUAL G/N.Normal")
       (LibraryName "V:\ORCAD166.C01\ORCAD\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
       (DeviceIndex "0"))
     (CAP

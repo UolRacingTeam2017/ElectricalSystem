@@ -1,0 +1,5 @@
+/**************************************************************************************************************
+This file contain all the software features
+
+[1] Torque encoder:
+ /* here goes  the torque encoder specifications and requirements */
